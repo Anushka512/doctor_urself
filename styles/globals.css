@@ -1,0 +1,167 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap');
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+*>*{
+  font-family: 'Roboto', sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+[data-theme='dark'] {
+  --background: black;
+  --foreground: white;
+}
+
+@font-face {
+  font-family:"larssiet-bold" ;
+  src: url("../public/fonts/Larsseit/Larsseit-Bold.otf");
+}
+
+@font-face {
+  font-family:"larssiet-thin" ;
+  src: url("../public/fonts/Larsseit/Larsseit-Thin.otf");
+}
+
+@font-face {
+  font-family:"larssiet" ;
+  src: url("../public/fonts/Larsseit/Larsseit.otf");
+}
+
+.head-font{
+  font-family: 'larssiet-bold','Roboto',sans-serif;
+}
+
+.regular-font{
+  font-family: 'larssiet','Roboto',sans-serif;
+}
+
+.light-regular-font{
+  font-family: "larssiet-thin",'Roboto',sans-serif;
+}
+
+.light-green{
+background-color: #7FB77E;
+}
+
+.light-grey{
+ background-color: #F8F6F4;
+}
+
+.dark-green{
+  background-color: #5D9C59;
+}
+
+.footer-links{
+  color: #DDDDDD;
+  text-decoration: none;
+}
+
+.footer-links :hover{
+  color: white;
+}
+
+.modal-wrapper {
+  width: 500px;
+  height: 600px;
+}
+
+.modal {
+  background: white;
+  height:100%;
+  width:100%;
+  border-radius: 15px;
+  padding: 15px;
+}
+
+.modal-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.modal-body {
+  padding-top: 10px;
+}
+
+.modal-header {
+  display: flex;
+  justify-content: flex-end;
+  font-size: 25px;
+}
+
+.meditation-course{
+  background-image: url('../public/assets/meditation.jpg');
+  height: 180px;
+  background-size: cover;
+}
+
+.yoga{
+  background-image: url('../public/assets/yoga.jpg');
+  height: 180px;
+  background-size: cover;
+}
+
+.hiking{
+  background-image: url('../public/assets/hiking.jpg');
+  height: 180px;
+  background-size: cover;
+}
+
+.nutrition{
+  background-image: url('../public/assets/nutrition.png');
+  height: 60px;
+  width: 60px;
+  background-size: cover;
+}
+
+.blood-pressure{
+  background-image: url('../public/assets/blood-pressure.png');
+  height: 60px;
+  width: 60px;
+  background-size: cover;
+}
+
+.mental-health{
+  background-image: url('../public/assets/mental-health.png');
+  height: 60px;
+  width: 60px;
+  background-size: cover;
+}
+
+.chiropractic{
+  background-image: url('../public/assets/chiropratic.png');
+  height: 60px;
+  width: 60px;
+  background-size: cover;
+}
+
+.therapy{
+  background-image: url('../public/assets/therapy.png');
+  height: 60px;
+  width: 60px;
+  background-size: cover;
+}
+
+.meditation{
+  background-image: url('../public/assets/meditation.png');
+  height: 60px;
+  width: 60px;
+  background-size: cover;
+}

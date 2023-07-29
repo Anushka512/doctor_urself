@@ -1,0 +1,76 @@
+/* .bg{
+    background-image: url('../public/assets/course-header-bg.webp');
+    background-position-x: right;
+} */
+
+.bg {
+    /* background-color: #2d3748; */
+    /* background-position-x: right; */
+  }
+
+  
+  
+  /* .enrollBtn {
+    background-color:black;
+    color: #fff;
+    padding: 12px 32px;
+    font-weight: bold;
+    font-size: 16px;
+    transition: background-color 0.2s ease;
+  }
+  
+  .enrollBtn:hover {
+    background-color: black;
+  }
+  
+  .enrollBtn:focus {
+    outline: none;
+    box-shadow: 0 0 0 2px rgba(113, 128, 150, 0.5);
+  } */
+  
+.bg2{
+    background-image: url('../public/assets/our-program.jpg');
+    background-position-x: 50%;
+}
+.bg3{
+    background-image: url('../public/assets/header-bg2.webp');
+    background-position-x: 50%;
+}
+.footer{
+    /* background-image: url('../public/assets/footer-bg.webp'); */
+  
+}
+
+
+.main {
+  width: 100%;
+  height: 100vh;
+}
+
+
+
+.content {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0,0,0,.4);
+  /* background-color: #000000cc; */
+}
+
+.main-img{
+  margin:30px;
+}
