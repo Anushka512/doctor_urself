@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "title": "3-Month 1 on 1 Coaching",
+        "instructor": "Deepta Manohar",
+        "language": "English",
+        "description": "Yoga is a mind-body practice that originated in ancient India and has been practiced for thousands of years. It is a holistic approach to health and wellness that combines physical postures, breathing exercises, meditation, and relaxation techniques. The physical postures of yoga, also known as asanas, are designed to strengthen and stretch the body, improve flexibility and balance, and promote overall physical health. The breathing exercises, or pranayama, are intended to bring balance and energy to the body, calm the mind, and increase mental clarity. Meditation and relaxation techniques are used to reduce stress and anxiety, improve mental focus, and promote a sense of inner peace and well-being. There are many different styles of yoga, each with its own focus and approach. Some of the most popular styles include Hatha yoga, Vinyasa yoga, Ashtanga yoga, Iyengar yoga, and Kundalini yoga.  Research has shown that regular yoga practice can have numerous benefits for both physical and mental health, including reducing stress and anxiety, improving sleep quality, increasing flexibility and strength, and even reducing symptoms of chronic pain and depression. To begin practicing yoga, it's important to find a qualified teacher and start with beginner-level classes. Yoga can be practiced by people of all ages and fitness levels, and can be adapted to accommodate individual needs and limitations. With regular practice and dedication, yoga can become a powerful tool for promoting health, happiness, and well-being.",
+        "learning-objective": "The learning objectives of yoga can vary depending on the individual's goals and needs. Here are some common learning objectives for yoga practice:    Physical health and wellness: Improve flexibility, strength, balance, and posture, and reduce the risk of injuries. Mental and emotional well-being: Reduce stress and anxiety, improve focus and concentration, and promote a sense of calm and relaxation. Spiritual growth and self-awareness: Deepen the understanding of the mind-body connection, increase self-awareness, and explore spiritual aspects of yoga.    Personal development: Develop self-discipline, perseverance, and patience, and cultivate a positive mindset.  Social and environmental awareness: Build a sense of community, empathy, and compassion, and develop a deeper connection to nature and the environment.    Professional development: Enhance productivity, creativity, and problem-solving skills, and improve communication and leadership abilities.   Overall, the learning objectives of yoga are to promote physical, mental, emotional, and spiritual well-being, and to foster personal and social growth.",
+        "duration": "12 sessions",
+        "price": 24999,
+        "quantity":1,
+        "ratings": {
+            "rating": {
+                "$numberDouble": "5.0"
+            },
+            "number_of_ratings": {
+                "$numberInt": "500"
+            }
+        },
+        "img": "https://i.ibb.co/xmvzm6J/photo-1544367567-0f2fcb009e0b-ixlib-rb-4-0.webp"
+    },
+    {
+        "id": 2,
+        "title": "3-Month 1 on 1 Coaching",
+        "instructor": "Ramya Koushik",
+        "language": "English",
+        "description": "Meditation is a practice that involves focusing the mind on a particular object, thought, or activity to achieve a mentally clear and emotionally calm state. The ultimate goal of meditation is to achieve a sense of inner peace and relaxation, and to cultivate a heightened sense of awareness and concentration. There are many different types of meditation, each with its own techniques and practices. Some of the most popular forms of meditation include mindfulness meditation, loving-kindness meditation, body scan meditation, and transcendental meditation. Research has shown that regular meditation practice can have numerous benefits for both physical and mental health, including reducing stress and anxiety, improving sleep quality, increasing focus and concentration, and even lowering blood pressure and reducing the risk of heart disease. To begin meditating, it's important to find a quiet and comfortable place where you won't be disturbed. Then, choose a specific form of meditation that resonates with you, and try to set aside a specific time each day to practice. With regular practice and patience, you can develop a deeper understanding and appreciation for the practice of meditation, and enjoy its many benefits in your daily life.",
+        "learning-objective": "The learning objectives for meditation can vary depending on the individual's goals and intentions. However, some common learning objectives for meditation may include: Learning to cultivate a sense of calmness and inner peace: Through regular meditation practice, one can learn to calm their mind and reduce the impact of stress and anxiety. Developing mindfulness and present moment awareness: Meditation can help to develop the ability to be fully present in the moment, without judgment or distraction. Increasing concentration and focus: Regular meditation practice can help to improve mental focus, concentration, and attention. Enhancing self-awareness and emotional regulation: By cultivating a deeper understanding of one's thoughts and emotions, meditation can help to improve emotional regulation and increase self-awareness. Cultivating compassion and kindness: Some forms of meditation focus on developing feelings of compassion and kindness towards oneself and others. Reducing physical symptoms of stress and anxiety: Meditation has been shown to have physical benefits such as reducing blood pressure and decreasing symptoms of chronic pain. Overall, the learning objectives for meditation may involve developing a deeper connection with oneself, cultivating inner peace, and promoting overall physical and mental well-being.",
+        "duration": "12 sessions",
+        "price": 9999,
+        "quantity":1,
+        "ratings": {
+            "rating": {
+                "$numberDouble": "4.9"
+            },
+            "number_of_ratings": {
+                "$numberInt": "500"
+            }
+        },
+        "img": "https://i.ibb.co/hmBnKv6/photo-1474418397713-7ede21d49118.webp"
+    },
+    {
+        "id": 3,
+        "title": "3-Month Group Coaching",
+        "instructor": "Deepta Manohar",
+        "language": "English",
+        "description": "Hiking is an outdoor activity that involves walking on natural terrain, usually on trails or paths. It is a popular form of recreation and exercise that allows people to enjoy nature and get some physical activity at the same time. Hiking can range from short, easy walks to long, challenging treks, depending on the terrain, elevation, and distance. Hiking can be done in various types of terrain, including mountains, forests, deserts, and coastal areas. It can be a solo activity or done with a group of people, and can be enjoyed by people of all ages and fitness levels. Before embarking on a hike, it's important to plan and prepare properly. This includes choosing an appropriate trail based on your fitness level and experience, wearing appropriate clothing and footwear, bringing enough water and food, and informing someone of your plans. Hiking provides numerous benefits, including improving cardiovascular health, strengthening muscles and bones, reducing stress, and enhancing mental well-being. It also allows people to connect with nature and appreciate its beauty and serenity.",
+        "learning-objective": "The learning objectives for hiking can vary depending on the individual's goals and experience level, but some possible objectives could include:  Developing physical fitness: Hiking can be a great way to improve cardiovascular endurance, strengthen muscles, and increase flexibility. Improving outdoor skills: Hiking requires a basic understanding of navigation, safety, and first aid. Learning these skills can help hikers stay safe and enjoy the outdoors more fully. Enjoying nature: Hiking can be a great way to connect with nature, learn about local flora and fauna, and develop an appreciation for the natural world. Building confidence: Hiking can be challenging, and overcoming obstacles and reaching goals can build self-confidence and a sense of accomplishment.  Promoting mental well-being: Spending time in nature and engaging in physical activity can be beneficial for mental health, reducing stress and promoting relaxation. Developing teamwork and leadership skills: Group hikes can provide opportunities to practice communication, problem-solving, and leadership skills. Engaging in a new hobby: Hiking can be a fun and rewarding hobby, providing opportunities for adventure, exploration, and personal growth.  Overall, the learning objectives for hiking can range from physical fitness to mental well-being, and can be tailored to individual interests and goals.",
+        "duration": "12 sessions",
+        "price": 14999,
+        "quantity":1,
+        "ratings": {
+            "rating": {
+                "$numberDouble": "4.5"
+            },
+            "number_of_ratings": {
+                "$numberInt": "500"
+            }
+        },
+        "img": "https://i.ibb.co/CsRCkjL/photo-1551632811-561732d1e306.webp"
+    }
+]
